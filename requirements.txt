@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+langchain-core
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+pydantic
+fpdf2
